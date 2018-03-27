@@ -3,3 +3,4 @@ Git is free and good.
 Git tracks changes.
 Git has a mutable index called stage.
 My stupid boss still prefers SVN.
+Creating a new branch is quick.
